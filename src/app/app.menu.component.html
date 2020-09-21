@@ -1,0 +1,38 @@
+<div class="layout-menu-container" (click)="onMenuClick($event)">
+    <p-scrollPanel #layoutMenuScroller [style]="{height: '100%'}">
+        <div class="menu-scroll-content">
+            <div class="layout-profile" *ngIf="app.inlineUser">
+                    <a class="layout-profile-button" href="#" (click)="inlineUserMenuActive = !inlineUserMenuActive">
+                        <img src="assets/layout/images/avatar.png" alt="roma-layout">
+                        <div class="layout-profile-userinfo">
+                            <span class="layout-profile-name">Arlene Welch</span>
+                            <span class="layout-profile-role">Design Ops</span>
+                        </div>
+                    </a>
+                    <ul [@inline]="inlineUserMenuActive ? 'visibleAnimated' : 'hiddenAnimated'" class="layout-profile-menu">
+                        <li>
+                            <a href="#">
+                                <i class="pi pi-fw pi-user"></i><span>Profile</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="pi pi-fw pi-cog"></i><span>Settings</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="pi pi-fw pi-envelope"></i><span>Messages</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="pi pi-fw pi-bell"></i><span>Notifications</span>
+                            </a>
+                        </li>
+                    </ul>
+            </div>
+            <ul app-submenu [item]="model" root="true" class="layout-menu" visible="true" [reset]="reset" parentActive="true"></ul>
+        </div>
+    </p-scrollPanel>
+</div>

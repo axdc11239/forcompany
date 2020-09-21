@@ -1,0 +1,29 @@
+.layout-footer {
+    padding: 1.5em 1.5em 1.5em 3em;
+    background-color: $footerBgColor;
+    border-top: 1px solid $footerBorderColor;
+    border-bottom: 1px solid $footerBorderColor;
+
+    img {
+        height: 21px;
+    }
+
+    p {
+        margin: 2px 0 0 0;
+    }
+
+    .footer-icons {
+        text-align: right;
+
+        a {
+            color: $textSecondaryColor; 
+            font-size: 24px;
+            margin-right: 16px;
+            @include transition(color $transitionDuration);
+
+            &:hover {
+                color: $textColor;
+            }
+        }
+    }    
+}

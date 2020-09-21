@@ -1,0 +1,110 @@
+
+<div class="p-grid layout-dashboard">
+    <div class="p-col-6 p-xl-3">
+        <div class="expenses card card-w-title">
+            <h3 style="text-align: center">mtkslt04</h3>
+            <div class="chart">
+                70%
+            </div>
+            <div class="p-grid expenses-legend">
+                <div class="p-col-12 p-lg-12">
+                    <i class="pi pi-circle-on"></i>
+                    <span class="expenses-title">Printer: Color Cartridge</span>
+                    <div class="expenses-price">$420</div>
+                    <span class="legend-status">23+ more than last month</span>
+                </div>
+            </div>
+
+            <div class="expenses-footer">
+                <a href="#">View more details >></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="p-grid ui-fluid">
+    <div class="p-col-6 p-lg-3">
+        <div class="card">
+            <h3 class="centerText" style="text-align: center">mtkslt04</h3>
+            <p-chart type="doughnut" [data]="pieData"></p-chart>
+            <p class="centerText" style="text-align: center; margin-top: -60px">
+               60%
+            </p>
+            <br/><br/><br/>
+            <span class="expenses-title">Printer: Color Cartridge</span>
+                    <div class="expenses-price">$420</div>
+                    <span class="legend-status">23+ more than last month</span>
+        </div>
+
+        <div class="expenses card card-w-title">
+            <h3>Expenses</h3>
+            <div class="chart">
+                $5500
+            </div>
+            <div class="p-grid expenses-legend">
+                <div class="p-col-12 p-lg-4">
+                    <i class="pi pi-circle-on"></i>
+                    <span class="expenses-title">Printer: Color Cartridge</span>
+                    <div class="expenses-price">$420</div>
+                    <span class="legend-status">23+ more than last month</span>
+                </div>
+                <div class="p-col-12 p-lg-4">
+                    <i class="pi pi-circle-on"></i>
+                    <span class="expenses-title">Printer: B&amp;W Cartridge</span>
+                    <div class="expenses-price">$680</div>
+                    <span class="legend-status">60+ more than last month</span>
+                </div>
+                <div class="p-col-12 p-lg-4">
+                    <i class="pi pi-circle-on"></i>
+                    <span class="expenses-title">Coffee Capsules</span>
+                    <div class="expenses-price">$150</div>
+                    <span class="legend-status">8% less than last month</span>
+                </div>
+            </div>
+
+            <div class="expenses-footer">
+                <a href="#">View more details >></a>
+            </div>
+        </div>
+    
+
+        <div class="card">
+            <h1 class="centerText">Doughnut Chart</h1>
+            <p-chart type="doughnut" [data]="pieData">
+                <p>100</p>
+            </p-chart>
+        </div>
+    </div>
+    <div class="p-col-6 p-lg-3">
+        <div class="card">
+            <h1 class="centerText">Doughnut Chart</h1>
+            <p-chart type="doughnut" [data]="pieData"></p-chart>
+        </div>
+
+        <div class="card">
+            <h1 class="centerText">Doughnut Chart</h1>
+            <p-chart type="doughnut" [data]="pieData"></p-chart>
+        </div>
+
+        <div class="card">
+            <h1 class="centerText">Radar Chart</h1>
+            <p-chart type="radar" [data]="radarData"></p-chart>
+        </div>
+    </div>
+    <div class="p-col-6 p-lg-3">
+        <div class="card">
+            <h1 class="centerText">Doughnut Chart</h1>
+            <p-chart type="doughnut" [data]="pieData"></p-chart>
+        </div>
+
+        <div class="card">
+            <h1 class="centerText">Doughnut Chart</h1>
+            <p-chart type="doughnut" [data]="pieData"></p-chart>
+        </div>
+
+        <div class="card">
+            <h1 class="centerText">Radar Chart</h1>
+            <p-chart type="radar" [data]="radarData"></p-chart>
+        </div>
+    </div>
+</div>
