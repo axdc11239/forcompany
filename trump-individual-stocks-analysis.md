@@ -296,6 +296,181 @@ Tesla 案例證明，政治盟友關係對股票是「槓桿放大器」──�
 
 ---
 
+---
+
+## 十一、半導體製造股
+
+---
+
+### 🔵 Intel（INTC）─ 川普「國家投資」最大受益者，2026 年最驚人翻身股
+
+Intel 是川普「美國製造」半導體政策的核心受益者，走出了一條從低谷到歷史新高的極端行情。
+
+| 日期 | 事件 | Intel 股價反應 |
+|------|------|--------------|
+| 2025 上半年 | 股價持續低迷，曾跌至 **19.95 美元**（近年最低） | 多年衰退底部 |
+| 2025/08/22 | **川普宣布：美國政府購入 Intel 10% 股權（8.9 億美元）** | 單日上漲 **+6%** |
+| 2025/08 後 | 政府持股成本 20.47 美元/股（4.33 億股） | 帳面獲利迅速擴大 |
+| 2026/5 後 | Intel 因蘋果晶片代工合約等利多，股價累計年漲逾 **+190%** | **政府帳面獲利達 476 億美元** |
+
+**政策背景：**
+- 川普政府以 CHIPS 法案剩餘補助款 **57 億美元** + 安全飛地計劃 **32 億美元** 換取 Intel 股權
+- 累計政府投資達 **111 億美元**（含先前已撥付的 22 億美元補助）
+- Intel 承諾維持在亞利桑那州、俄勒岡州的高容量晶圓廠製造
+
+**核心意義：** 這是川普政府「政府入股換國安製造」模式的最具代表性案例，也是 2025–2026 年最大的半導體政策多頭行情。
+
+---
+
+## 十二、電腦與硬體股
+
+---
+
+### 🖥️ Dell Technologies（DELL）─ 關稅夾擊下的 AI 伺服器轉機
+
+Dell 是關稅政策的直接受害者，但 AI 伺服器需求提供了意外的對沖支撐。
+
+| 衝擊面向 | 數據/細節 |
+|---------|---------|
+| **關稅直接衝擊** | 川普對中國電子產品關稅 10–25%，Dell 是全球最大 PC 製造商之一 |
+| **財務衝擊估算** | 摩根士丹利分析：關稅成本「幾乎等同 Dell 2025 年全年淨利」 |
+| **供應鏈預警** | 2024/11（當選後）即提前要求供應商增產、減少中國採購依賴 |
+| **AI 伺服器利多** | 企業對 AI 伺服器需求激增，Dell 財報超出預期，部分抵銷衝擊 |
+| **預防性備貨** | 與 Microsoft、HP 同步於 2024/11–12 月緊急囤積中國零組件 |
+
+**模式：** Dell 呈現「硬體製造商的矛盾處境」──川普關稅政策威脅其傳統 PC 業務，但同一個川普政府大力推動的 AI 政策（支持 AI 基礎設施投資）卻拉抬了其高利潤 AI 伺服器業務。
+
+---
+
+## 十三、大型科技平台股
+
+---
+
+### 🪟 Microsoft（MSFT）─ AI 護城河讓關稅衝擊相對有限
+
+| 時期 | 事件 | Microsoft 反應 |
+|------|------|--------------|
+| 2025/4/3 | 解放日後次日，科技股普跌 | 短暫承壓 |
+| 2025/Q1 財報 | Azure 雲端業務年增 **+33%**，AI 需求抵銷關稅不確定性 | 財報後 **+7%**（盤後） |
+| 2025/5 | 法說會：AI 業務遠超川普關稅帶來的逆風 | 年內損失全部收復 |
+
+**關鍵邏輯：** Microsoft 不直接生產硬體，關稅對其成本結構影響有限；反而受益於川普政府對 AI 基礎建設的積極態度。
+
+---
+
+### 📘 Meta（META）─ AI 廣告業務撐住關稅逆風
+
+| 時期 | 事件 | Meta 反應 |
+|------|------|----------|
+| 2025/4/3 | 解放日後，廣告主觀望情緒升溫 | 股價下壓 |
+| 2025/Q1 財報 | 總營收年增 **+16%**（421 億美元），超出預期 | 財報後 **+5.4%**（盤後） |
+| 2025/5 | 川普關稅擔憂降溫，廣告市場回溫 | 逐步收復失地 |
+
+**風險點：** 零售廣告佔 Meta 收入大比例，若關稅持續推升通膨壓制消費，廣告預算將面臨壓縮。
+
+---
+
+### 🔍 Alphabet（GOOGL）─ 廣告市場不確定性下的壓力股
+
+| 風險因素 | 細節 |
+|---------|------|
+| 零售廣告曝險 | 零售業佔 Google 廣告收入至少 **21%**，關稅衝擊零售業 → 直接壓縮廣告預算 |
+| 資料中心進口成本 | Alphabet 是全球最大資料中心資本支出者之一，大量進口伺服器設備 |
+| 估值壓縮 | 解放日後股價跌至 52 週高點以下逾 **20%**，本益比降至 17 倍以下 |
+| 反彈 | 隨關稅暫停及 AI 業務成長，部分回補跌幅 |
+
+---
+
+## 十四、汽車股
+
+---
+
+### 🚙 Ford（F）& GM（GM）─ 25% 汽車關稅下的分化行情
+
+| 日期 | 川普政策 | 股價反應 |
+|------|---------|---------|
+| 2025/04/03 | **25% 進口汽車關稅**正式生效 | Ford、GM 均下跌 |
+| 2025/04/29 | 川普簽署行政命令**部分鬆綁**：在美組裝車可獲零件進口抵免（第一年 3.75%） | 壓力暫緩 |
+| 2025/07/04 | 「大美麗法案」廢除 7,500 美元 EV 補貼（2025/9/30 截止）| EV 部門預期衝擊 |
+| 2025/Q4 | GM 預估 EV 補貼取消導致 **負面衝擊 16 億美元** | GM 股價承壓 |
+| 2025 全年 | **GM 全年股價 +60%**（51 → 83 美元）| 受惠燃油車關稅保護 |
+
+**GM 的反直覺走勢：** 25% 進口車關稅雖讓供應鏈成本上升，但同時**保護了 GM 的本土市場份額**，外國車廠（豐田、現代、BMW）競爭力下降，反而讓 GM 全年大漲 60%。
+
+---
+
+### ⚡ Rivian（RIVN）─ EV 補貼廢止最直接受害者
+
+| 事件 | 衝擊 |
+|------|------|
+| 2025/07/04 大美麗法案 | 7,500 美元 EV 補貼提前廢止（原定 2027 年，提前至 2025/9/30） |
+| 法規積分收入 | Rivian 大幅下調全年積分收入預測：由 3 億美元降至 **1.6 億美元** |
+| 股價影響 | 大幅下跌，業務前景遭到重新評估 |
+
+---
+
+## 十五、清潔能源股
+
+---
+
+### ☀️ First Solar（FSLR）& Enphase（ENPH）─ 被川普言語直接「射殺」的板塊
+
+這是整個研究期間「總統發言最直接打擊個股」的典型案例之一。
+
+| 日期 | 川普發言 | 股價反應 |
+|------|---------|---------|
+| 2025 某次內閣會議 | 川普稱太陽能「愚蠢（stupid）、醜陋（ugly）」，稱太陽能農場「農民痛恨它」 | First Solar **-6.8%**，Enphase **-4.6%**（當日） |
+| 2025 早期 | 川普推進廢除《通貨膨脹削減法案》清潔能源補貼 | 太陽能板塊整體下壓 |
+| 2025/07/01 | 大美麗法案草案一度**移除**太陽能風能稅收打擊條款 | 清潔能源股**當日急彈** |
+| 2025/07/04（法案通過） | 最終版本：太陽能屋頂 30% 抵稅額 2025/12/31 到期；太陽能/風能項目稅額 2027 年底廢止 | 板塊再度走弱 |
+
+**長期衝擊：**
+- 住宅太陽能 30% 抵稅到期 → 一套 20,000 美元系統直接損失 **6,000 美元補助**
+- 太陽能/儲能工程成本因金屬關稅再漲約 **30%**（鋼鐵、鋁）
+- 矛盾點：儘管政策極端不友善，美國 2025 上半年仍新增太陽能裝機 **18 GW**，創歷史紀錄
+
+---
+
+## 十六、零售股補充
+
+---
+
+### 🛒 Walmart（WMT）─ 被川普在 Truth Social 點名警告
+
+| 日期 | 事件 | Walmart 反應 |
+|------|------|------------|
+| 2025/4/21 | 川普邀請 Walmart、Target、Home Depot CEO 至白宮開會 | 市場觀望 |
+| 2025/5 | Walmart CFO 宣布因關稅「被迫漲價」，措辭強硬 | 市場關注 |
+| 2025/5/17 | 川普在 Truth Social 發文：**「Walmart 應該停止用關稅當漲價藉口！應該『吃下關稅（Eat the Tariffs）』！」** | Walmart 股價**短暫承壓** |
+| 後續 | Walmart 最終選擇部分漲價，但措辭轉為低調 | 股價回穩 |
+
+**Walmart CFO 回應：** 「我們從未見過如此大幅度、如此快速到來的成本增幅，這是任何零售商都無法吸收的。」
+
+---
+
+## 十七、更新版個股影響排行
+
+### 完整版受川普言論影響最大個股排行
+
+| 排名 | 個股 | 最大單次/累計影響 | 方向 | 主要觸發事件 |
+|-----|------|-----------------|------|------------|
+| 1 | Tesla (TSLA) | -14% 單日 / -50% 累計 | ▼ | 川普-馬斯克決裂 |
+| 2 | Intel (INTC) | +190% 年漲幅（2026） | ▲ | 政府入股 10% + CHIPS 投資 |
+| 3 | Nike (NKE) | -14% 單日 | ▼ | 解放日關稅（越南 46%）|
+| 4 | GM (GM) | +60% 年漲幅（2025） | ▲ | 進口車 25% 關稅保護本土市場 |
+| 5 | US Steel (X) | +16% 單日，+20% 次波 | ▲ | Nippon Steel 收購案批准 |
+| 6 | First Solar (FSLR) | -6.8% 單日 | ▼ | 川普稱太陽能「醜陋愚蠢」|
+| 7 | Apple (AAPL) | 市值跌破→重返 3 兆 | ▲▼ | 關稅豁免/威脅反覆 |
+| 8 | Rivian (RIVN) | EV 積分收入腰斬 | ▼ | 大美麗法案廢除 7,500 EV 補貼 |
+| 9 | Nucor (NUE) | +5.6% 單日 | ▲ | 鋼鋁關稅 25% 宣布 |
+| 10 | Nvidia (NVDA) | ±4% 多次波動 | ▲▼ | AI 晶片出口禁令反覆 |
+| 11 | Boeing (BA) | 大幅上漲 | ▲ | 200 架中美飛機大單（爭議持股） |
+| 12 | Novo Nordisk (NVO) | -5% 單日 | ▼ | 最惠國藥價行政命令 |
+| 13 | Dell (DELL) | 淨利全數被關稅侵蝕（估算） | ▼ | PC/伺服器零件關稅 |
+| 14 | Enphase (ENPH) | -4.6% 單日 | ▼ | 川普反太陽能言論 |
+
+---
+
 ## 資料來源
 
 - [CNBC：蘋果市值重返 3 兆美元（關稅豁免）](https://www.cnbc.com/2025/04/14/apple-regains-3-trillion-market-cap-after-trump-exempts-iphone-tariff.html)
@@ -313,3 +488,13 @@ Tesla 案例證明，政治盟友關係對股票是「槓桿放大器」──�
 - [Benzinga：「鑽採計劃」反效果](https://www.benzinga.com/markets/commodities/25/10/48315585/donald-trump-drill-baby-drill-energy-oil-gas-renewables-crude-prices-today-xle-etf)
 - [CNBC：防務股因川普烏克蘭表態上漲](https://www.cnbc.com/amp/2025/09/24/defense-stocks-rally-as-trump-says-kyiv-can-win-back-all-of-ukraine.html)
 - [FXStreet：JPMorgan、Goldman Sachs 因去管制化預期飆漲](https://www.fxstreet.com/news/jpmorgan-goldman-sachs-stocks-soar-as-trump-win-signals-financial-deregulation-higher-interest-rates-202411061417)
+- [Fortune：川普 Intel 投資帳面獲利 19 億美元](https://fortune.com/2025/08/23/trump-intel-1-9-billion-gain-discount-10-percent-stake/)
+- [CNBC：美國政府取得 Intel 10% 股權](https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html)
+- [Yahoo Finance：Intel 帳面獲利達 476 億美元](https://finance.yahoo.com/markets/stocks/articles/trump-10-intel-intc-stake-175705778.html)
+- [Euronews：Microsoft 與 Meta 財報超預期，AI 抵銷關稅衝擊](https://www.euronews.com/business/2025/05/01/microsoft-and-meta-beat-estimates-as-ai-outpaces-trumps-tariff-woes)
+- [CNBC：川普要求 Walmart「吃下關稅」](https://www.cnbc.com/2025/05/17/trump-tells-walmart-to-eat-the-tariffs.html)
+- [Axios：Nike、Apple 被關稅重創](https://www.axios.com/2025/04/03/trump-tariffs-stocks-nike-apple-iphone)
+- [CNBC：大美麗法案廢除 7,500 美元 EV 補貼](https://www.cnbc.com/2025/07/01/trump-big-beautiful-bill-axes-7500-ev-tax-credit-after-september.html)
+- [Seeking Alpha：First Solar、Enphase 因川普反太陽能言論領跌](https://seekingalpha.com/news/4488024-first-solar-enphase-lead-sector-losers-as-trump-escalates-renewable-energy-criticism)
+- [CNBC：川普鬆綁 25% 汽車關稅，部分給予抵免](https://www.cnbc.com/2025/04/03/trumps-25percent-auto-tariffs-are-in-effect-what-investors-need-to-know.html)
+- [TrendForce：Dell、HP、Microsoft 搶先囤積中國零組件](https://www.trendforce.com/news/2024/11/27/news-microsoft-hp-dell-reportedly-stockpile-china-parts-ahead-of-expected-trump-tariff-hikes/)
