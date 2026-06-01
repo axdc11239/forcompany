@@ -1,0 +1,130 @@
+[
+  {
+    "ticker": "AVGO",
+    "total_score": 60.09,
+    "breakdown": {
+      "fundamental_25": 17.68,
+      "capex_lead_30": 8.34,
+      "policy_risk_15": 8.25,
+      "technical_20": 15.82,
+      "sentiment_10": 10
+    },
+    "signal": "買入",
+    "trump_signal_adj": 0.0,
+    "final_score": 60.09,
+    "layer": "L1_晶片",
+    "final_signal": "買入"
+  },
+  {
+    "ticker": "ANET",
+    "total_score": 55.14,
+    "breakdown": {
+      "fundamental_25": 11.85,
+      "capex_lead_30": 7.89,
+      "policy_risk_15": 8.4,
+      "technical_20": 17.75,
+      "sentiment_10": 9.25
+    },
+    "signal": "持有",
+    "trump_signal_adj": 0.0,
+    "final_score": 55.14,
+    "layer": "L3_網路設備",
+    "final_signal": "持有"
+  },
+  {
+    "ticker": "VRT",
+    "total_score": 52.81,
+    "breakdown": {
+      "fundamental_25": 11.27,
+      "capex_lead_30": 9.09,
+      "policy_risk_15": 8.75,
+      "technical_20": 13.7,
+      "sentiment_10": 10
+    },
+    "signal": "持有",
+    "trump_signal_adj": 0.0,
+    "final_score": 52.81,
+    "layer": "L2_伺服器/冷卻",
+    "final_signal": "持有"
+  },
+  {
+    "ticker": "NVDA",
+    "total_score": 46.78,
+    "breakdown": {
+      "fundamental_25": 16.39,
+      "capex_lead_30": 6.84,
+      "policy_risk_15": 0,
+      "technical_20": 13.8,
+      "sentiment_10": 9.75
+    },
+    "signal": "持有",
+    "trump_signal_adj": 2.35,
+    "final_score": 49.13,
+    "layer": "L1_晶片",
+    "final_signal": "持有"
+  },
+  {
+    "ticker": "CEG",
+    "total_score": 47.96,
+    "breakdown": {
+      "fundamental_25": 2.12,
+      "capex_lead_30": 9.84,
+      "policy_risk_15": 8.5,
+      "technical_20": 18.4,
+      "sentiment_10": 9.1
+    },
+    "signal": "持有",
+    "trump_signal_adj": 0.0,
+    "final_score": 47.96,
+    "layer": "L4_電力供應",
+    "final_signal": "持有"
+  },
+  {
+    "ticker": "INTC",
+    "total_score": 33.86,
+    "breakdown": {
+      "fundamental_25": 3.42,
+      "capex_lead_30": 10.59,
+      "policy_risk_15": 2.0,
+      "technical_20": 8.6,
+      "sentiment_10": 9.25
+    },
+    "signal": "減碼",
+    "trump_signal_adj": 5.76,
+    "final_score": 39.62,
+    "layer": "L1_晶片",
+    "final_signal": "減碼"
+  },
+  {
+    "ticker": "TSLA",
+    "total_score": 27.96,
+    "breakdown": {
+      "fundamental_25": -2.41,
+      "capex_lead_30": 12.02,
+      "policy_risk_15": 2.75,
+      "technical_20": 10.6,
+      "sentiment_10": 5.0
+    },
+    "signal": "賣出",
+    "trump_signal_adj": -5.56,
+    "final_score": 22.4,
+    "layer": "L2_伺服器/冷卻",
+    "final_signal": "賣出"
+  },
+  {
+    "ticker": "SMCI",
+    "total_score": 20.88,
+    "breakdown": {
+      "fundamental_25": 0.84,
+      "capex_lead_30": 6.84,
+      "policy_risk_15": 0,
+      "technical_20": 8.2,
+      "sentiment_10": 5.0
+    },
+    "signal": "賣出",
+    "trump_signal_adj": 0.0,
+    "final_score": 20.88,
+    "layer": "L2_伺服器/冷卻",
+    "final_signal": "賣出"
+  }
+]
