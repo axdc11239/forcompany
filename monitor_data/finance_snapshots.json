@@ -1,0 +1,77 @@
+{
+  "snapshots": [
+    {
+      "date": "2026-06-02 00:25",
+      "detected_tickers": [],
+      "new_tickers": []
+    },
+    {
+      "date": "2026-06-02 00:25",
+      "detected_tickers": [],
+      "new_tickers": []
+    }
+  ],
+  "known_holdings": {
+    "NVDA": {
+      "range": "100萬–500萬",
+      "last_seen": "2026-Q1",
+      "status": "持有"
+    },
+    "AAPL": {
+      "range": "100萬–500萬",
+      "last_seen": "2026-Q1",
+      "status": "持有"
+    },
+    "PLTR": {
+      "range": "25萬–63萬",
+      "last_seen": "2026-Q1",
+      "status": "持有（已讚美）"
+    },
+    "AVGO": {
+      "range": "中等",
+      "last_seen": "2026-Q1",
+      "status": "持有"
+    },
+    "GS": {
+      "range": "中等",
+      "last_seen": "2026-Q1",
+      "status": "持有"
+    },
+    "BAC": {
+      "range": "中等",
+      "last_seen": "2026-Q1",
+      "status": "持有"
+    },
+    "ORCL": {
+      "range": "中等",
+      "last_seen": "2026-Q1",
+      "status": "持有"
+    },
+    "MSFT": {
+      "range": "部分已賣出",
+      "last_seen": "2026-Q1",
+      "status": "減碼"
+    },
+    "AMZN": {
+      "range": "500萬以上已賣出",
+      "last_seen": "2026-Q1",
+      "status": "已賣出"
+    },
+    "META": {
+      "range": "混合（買賣）",
+      "last_seen": "2026-Q1",
+      "status": "混合"
+    },
+    "SPY": {
+      "range": "100萬–500萬",
+      "last_seen": "2026-Q1",
+      "status": "持有"
+    },
+    "BA": {
+      "range": "100萬–600萬",
+      "last_seen": "2025-Q3",
+      "status": "持有"
+    }
+  },
+  "last_check": "2026-06-02 00:25"
+}
